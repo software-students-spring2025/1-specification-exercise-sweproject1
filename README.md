@@ -37,12 +37,12 @@ Problems and Frustrations:
 - Also experiences awkwardness when fronting money.
 
 Goals/Needs:
-- Suggests an idea to tap phones to submit a payment, similar to modern day Airdrop.
+- Suggests an idea to tap phones to submit a payment, similar to modern-day Airdrop.
 - Wants a way to just split bills or at least manage money that is owed and that she owes.
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here.
+SplitThat is a payment app for college students to streamline splitting expenses through a shared virtual card.
 
 ## User Requirements
 
