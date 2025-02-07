@@ -46,7 +46,16 @@ SplitThat is a payment app for college students to streamline splitting expenses
 
 ## User Requirements
 
-See instructions. Delete this line and place a list of your User Stories here.
+1. As a diner customer, I want to create a group payment app so that I can split the bill with my friends without the complications of using multiple apps or lack of same apps
+2. As a roommate, I want to pay for our shared expensives with roommates so that we can manage our finances/bills more easily.
+3. As a user, I want to verify transactions using Face ID and/or password so that my transactions and money are safe.
+4. As a frequent customer, I want to save my favorite payment groups so that I don't have to recreate them everytime we go to such place (restaurant, store, bills, etc)
+5. As a user, I want to generate a one-time virtual card for our group so that we can pay directly for what we need, whether it's a restaurant or something else.
+6.
+7.
+8.
+9.
+10.
 
 ## Activity Diagrams
 
