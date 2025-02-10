@@ -58,8 +58,17 @@ SplitThat is a payment app for college students to streamline splitting expenses
 10. As someone who eats out a lot with friends, I want us to be able to pay the bill in full so that we don't have to ask whether we can split the bill amongst multiple people.
 
 ## Activity Diagrams
+As a college student, I want to be able to audit me and my roommates' rent payments so we can be on the same page and pay accordingly.
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+<img width="124" alt="Story 6" src="https://github.com/user-attachments/assets/18f6b666-6822-4081-9c5b-c2cc4fa03883" />
+
+<br></br>
+
+As a user, I want to generate a one-time virtual card for our group so that we can pay directly for what we need, whether it's a restaurant or something else.
+
+<img width="478" alt="Story 5" src="https://github.com/user-attachments/assets/60041b24-e096-4689-a8a4-07d9ec8bc7f2" />
+
+
 
 ## Clickable Prototype
 
