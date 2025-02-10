@@ -55,7 +55,7 @@ SplitThat is a payment app for college students to streamline splitting expenses
 7. As someone who often times forgets to pay my friends back after eating out together, I want to ensure that they aren't missing money so that they don't have to worry about people not paying them back when they should.
 8. As someone who doesn't have any apps like cash app, Venmo, etc, I want to be able to ensure that I'm paying my friends same day or receiving money from my friends same day so there aren't any problems of people not receiving/giving money
 9. As a someone with social anxiety, I want to be able to eat with friends/new people so that I don't have the burden of having to approach the new person(s) and asking them to pay me back.
-10. As someone who eats out a lot with friends, I us to be able to pay the bill in full so that we don't have to ask whether we can split the bill amongst multiple people.
+10. As someone who eats out a lot with friends, I want us to be able to pay the bill in full so that we don't have to ask whether we can split the bill amongst multiple people.
 
 ## Activity Diagrams
 
