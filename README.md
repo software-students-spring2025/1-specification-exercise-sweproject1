@@ -46,18 +46,16 @@ SplitThat is a payment app for college students to streamline splitting expenses
 
 ## User Requirements
 
-1. As a diner customer, I want to use a group payment app so that I can split the bill with my friends without the complications of using multiple apps or lack of same apps (Venmo, Zelle, Cashapp, etc.)
-2. As a roommate, I want to pay for our shared expensives with roommates so that we can manage our finances/bills more easily.
-3. As a user, I want to verify transactions using Face ID and/or password so that my transactions and money are safe.
-4. As a user, I want to save my favorite payment groups so that I don't have to recreate them everytime we go to such place (restaurant, store, bills, etc)
-5. As a user, I want to generate a one-time virtual card for our group so that we can pay directly for what we need, whether it's a restaurant or something else.
-6. As a college student, I want to be able to audit me and my roommates' rent payments so we can be on the same page and pay accordingly.
-7. As someone who often times forgets to pay my friends back after eating out together, I want to ensure that they aren't missing money so that they don't have to worry about people not paying them back when they should.
-8. As someone who doesn't have any apps like cash app, Venmo, etc, I want to be able to ensure that I'm paying my friends same day or receiving money from my friends same day so there aren't any problems of people not receiving/giving money
-9. As a someone with social anxiety, I want to be able to eat with friends/new people so that I don't have the burden of having to approach the new person(s) and asking them to pay me back.
-10. As someone who eats out a lot with friends, I want us to be able to pay the bill in full so that we don't have to ask whether we can split the bill amongst multiple people.
-11. As a user, I want to use a group payment app so that I can split the bill with friends in a simple manner without complications
-12. As a user, I want to be able to eat with friends/new people so that I don't have the burden of having to approach the new person(s) and asking them to pay me back.
+1. As a user, I want to be able to customize the division of an expense so that everyone in my group pays exactly what they owe.
+2. As a user, I want to have access to a comprehensive financial transaction history so that I can keep track of my spending habits.
+3. As a user, I want to verify transactions using Face ID and/or password so that my transactions and money are kept safe.
+4. As a user, I want to save my favorite payment groups so that I don't have to recreate them whenever my group incurs expenses.
+5. As a user, I want to generate a one-time virtual card for my group so that we can pay directly for what we need, whether it's a restaurant or something else.
+6. As a college student, I want to be able to audit my and my roommates' rent payments so that we can be on the same page and pay accordingly.
+7. As a user, I want to receive real-time notifications when a group card is used so that I can stay up-to-date on my financial transactions.
+8. As a user, I want to be able to link my bank accounts and/or credit/debit cards so that I don't have to enter payment details with each transaction.
+9. As a college student, I want to invite my friends who aren't on the app yet so that we can split future expenses easily.
+10. As a user, I want to be able to set a custom profile picture so that my friends can easily recognize me in the app when splitting expenses.
 
 ## Activity Diagrams
 As a college student, I want to be able to audit me and my roommates' rent payments so we can be on the same page and pay accordingly.
