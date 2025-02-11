@@ -62,7 +62,7 @@ SplitThat is a payment app for college students to streamline splitting expenses
 ## Activity Diagrams
 As a college student, I want to be able to audit me and my roommates' rent payments so we can be on the same page and pay accordingly.
 
-<img width="124" alt="Story 6" src="https://github.com/user-attachments/assets/18f6b666-6822-4081-9c5b-c2cc4fa03883" />
+<img width="124" alt="Story 6" src="https://github.com/user-attachments/assets/e1ae121d-383f-4852-ae9f-704dd4737804" />
 
 <br></br>
 
