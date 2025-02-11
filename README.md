@@ -58,7 +58,7 @@ SplitThat is a payment app for college students to streamline splitting expenses
 10. As a user, I want to be able to set a custom profile picture so that my friends can easily recognize me in the app when splitting expenses.
 
 ## Activity Diagrams
-As a college student, I want to be able to audit me and my roommates' rent payments so we can be on the same page and pay accordingly.
+As a college student, I want to be able to audit my and my roommates' rent payments so we can be on the same page and pay accordingly.
 
 <img width="124" alt="Story 6" src="https://github.com/user-attachments/assets/e1ae121d-383f-4852-ae9f-704dd4737804" />
 
